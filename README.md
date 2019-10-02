@@ -1,4 +1,4 @@
-# WAFormatDecoder
+# Whats App Text Format Decoder
 
 Converts WhatsApp Chat text formatting to Webpage friendly Text using JavaScript
 
@@ -14,3 +14,6 @@ Current Issues
   Nothing Else found Yet. . .
 
 A tiny project hoping to save y'all some time
+
+
+Search Tags: #WhatsApp #WADecoder #WATextFormat
