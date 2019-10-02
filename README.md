@@ -10,7 +10,7 @@ Has the following features
 
 Current Issues
 
-* Unable to accuratly Convert \`\`\` to a <quote> tag due to size 3;
+* Unable to accuratly Convert \`\`\` to a `<quote>` tag due to size 3;
   Nothing Else found Yet. . .
 
 A tiny project hoping to save y'all some time
