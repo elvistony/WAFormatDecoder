@@ -8,5 +8,9 @@ Has the following features
 * Direct Conversion by `class="WAdecode"` inclusion to `div` block
 * Enables users to use WhatsApp formatted text as Data in Websites
 
+Current Issues
+
+* Unable to accuratly Convert \`\`\` to a <quote> tag due to size 3;
+  Nothing Else found Yet. . .
 
 A tiny project hoping to save y'all some time
