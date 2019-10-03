@@ -15,10 +15,12 @@ Current Issues
 
 A tiny project hoping to save y'all some time
 
-
 Search Tags: #WhatsApp #WADecoder #WATextFormat
 
-Instructions to Set it up,
+
+
+
+## Instructions to Set it up,
 
 * Clone this repository to a folder and copy the *WAdecode.js* file to your js folder (Website Directory)
 
